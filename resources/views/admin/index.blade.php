@@ -21,7 +21,7 @@
                         <i class="fa-solid fa-4x fa-user-check"></i>
                     </div>
                     <div class="mb-1">
-                        <a href="" class="btn btn-manage">View posts</a>
+                    <a href="{{route('admin.users.index')}}" class="btn btn-manage">View Users</a>
                     </div>
                 </div>
             </div>
